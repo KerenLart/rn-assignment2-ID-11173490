@@ -9,6 +9,6 @@
 - Make the name "Keren" bold.
 
 ## Screenshot:
-![Screenshot](assets/screenshot.jpg)
+![Screenshot](assets/screenshot.png)
 
 Student ID: 11173490
